@@ -4,7 +4,7 @@ Figurer og skisser knyttet til bruk av bestemte kodelister og koder.
 ===== Typeveg - Kodenavn: Sti
 *Definisjon:* Tydelig, smalt og sammenhengende tr&#229;kk i terrenget, som har oppst&#229;tt gjennom bruk eller aktiv tilrettelegging.
 
-*Tilleggsopplysninger FKB:* Sti benyttes prim&#230;rt i utmark, men kan ogs&#229; registreres i urbane str&#248;k for stier/tr&#229;kk i terrenget der det ikke er noen opparbeidet veg med klar avgrensning. Stier skal v&#230;re del av et sammenhengende transportnettverk for g&#229;ende. Kortere frittliggende stier som ikke inng&#229;r i et transportnettverk er derfor ikke n&#248;dvendig &#229; registrere. I omr&#229;der med mange stier (for eksempel rundt parkeringsplasser, parkomr&#229;der etc.) er det bare n&#248;dvendig &#229; registrere hovedferdsel&#229;rene. For stier i utmark kan Typeveg Sti benyttes gjennomg&#229;ende selv om stien i omr&#229;der er opparbeidet som en gangveg (som for eksempel p&#229; h&#248;yt trafikkerte turiststier).
+*Tilleggsopplysninger FKB:* Sti benyttes prim&#230;rt i utmark, men kan ogs&#229; registreres i urbane str&#248;k for stier/tr&#229;kk i terrenget der det ikke er noen opparbeidet veg med klar avgrensning. Stier skal v&#230;re del av et sammenhengende transportnettverk for g&#229;ende. Kortere frittliggende stier som ikke inng&#229;r i et transportnettverk er derfor ikke n&#248;dvendig &#229; registrere. I omr&#229;der med mange stier (for eksempel rundt parkeringsplasser, parkomr&#229;der etc.) er det bare n&#248;dvendig &#229; registrere hovedferdsel&#229;rene. For stier i utmark kan Typeveg Sti benyttes gjennomg&#229;ende selv om stien i omr&#229;der er opparbeidet som en gangveg (som for eksempel p&#229; h&#248;yt trafikkerte turiststier). Sti som krysser jernbane skal kun registreres der det er planovergang, bru (medium L) eller i tunnel/kulvert (medium U). Bane NOR leverer manus over planoverganger.
 
 ===== Typeveg - Kodenavn: Stitrapp
 *Definisjon:* trapp som naturlig inng&#229;r i nettverket for stier
@@ -14,12 +14,12 @@ Figurer og skisser knyttet til bruk av bestemte kodelister og koder.
 ===== Typeveg - Kodenavn: Traktorveg
 *Definisjon:* Veg som hele &#229;ret (eller deler av &#229;ret) ikke egner seg for vanlig bilkj&#248;ring, men som er farbar med traktor.
 
-*Tilleggsopplysninger FKB:* Traktorveger skal v&#230;re s&#229; brede at traktorer kan benytte disse, minimum 2.5 meter. Traktorveger inng&#229;r i det permanente vegnettet og medf&#248;rer varige terrenginngrep i form av en sammenhengende vegkropp. Slep og driftsveier som ikke har bearbeidet s&#229;le og som er skapt av gjentatte passeringer med traktor, defineres normalt ikke som en traktorveg. Slep og driftsveier som binder sammen samferdselsnettverket kan registreres som konnekteringslenke med typeveg sti. Veger som er bygd som traktorveger, men opprustet slik at de i praksis er kj&#248;rbare med bil skal registreres som bilveg i Elveg 2.0. En (tidligere) traktorveg som er gjengrodd med vegetasjon og ikke lenger egner seg for ferdsel med traktor skal ikke klassifiseres som traktorveg (men heller klassifiseres som Typeveg Sti).  
+*Tilleggsopplysninger FKB:* Traktorveger skal v&#230;re s&#229; brede at traktorer kan benytte disse, minimum 2.5 meter. Traktorveger inng&#229;r i det permanente vegnettet og medf&#248;rer varige terrenginngrep i form av en sammenhengende vegkropp. Slep og driftsveier som ikke har bearbeidet s&#229;le og som er skapt av gjentatte passeringer med traktor, defineres normalt ikke som en traktorveg. Slep og driftsveier som binder sammen samferdselsnettverket kan registreres som konnekteringslenke med typeveg sti. Veger som er bygd som traktorveger, men opprustet slik at de i praksis er kj&#248;rbare med bil skal registreres som bilveg i NVDB Vegnett. En (tidligere) traktorveg som er gjengrodd med vegetasjon og ikke lenger egner seg for ferdsel med traktor skal ikke klassifiseres som traktorveg (men heller klassifiseres som Typeveg Sti). Traktorveg som krysser jernbane skal kun registreres der det er planovergang, bru (medium L) eller i tunnel/kulvert (medium U). Bane NOR leverer manus over planoverganger. 
 
-.Eksempel på registrering av veglenker med typeveg "enkelBilveg" (Elveg 2.0), typeveg "Traktorveg" og typeveg "Sti" i et landbruksområde.
+.Eksempel på registrering av veglenker med typeveg "bilveg" (NVDB Vegnett), typeveg "traktorveg" og typeveg "sti" i et landbruksområde.
 image::figurer\typeveg.png[]
 
-.Eksempel på registrering av typeveg "enkelBilveg", "gangOgSykkelveg" (Elveg 2.0) og typeveg "Sti" i et tettbygd område.
+.Eksempel på registrering av typeveg "bilveg", "gsv" (NVDB Vegnett) og typeveg "sti" i et tettbygd område.
 image::figurer\typeveg2.png[]
 
 .Eksempel på registrering av typeveg "stitrapp" i forbindelse med typeveg "sti" og andre samferdselsobjekter.

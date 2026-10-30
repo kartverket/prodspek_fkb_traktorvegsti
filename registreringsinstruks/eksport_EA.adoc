@@ -1,3 +1,4 @@
+
  
 <<<
 '''
@@ -13,25 +14,19 @@ image::https://skjema.geonorge.no/SOSI/produktspesifikasjon/FKB-TraktorvegSti/5.
  
 [discrete]
 ==== Tilleggsinformasjon for fotogrammetrisk registrering
-Veglenke er en felles objekttype for alle veglenker (senterlinjer) i et vegnett. Egenskapen typeveg beskriver hva slags veglenke det er. I FKB-TraktorvegSti er aktuelle verdier for typeveg Traktorveg, Sti og stitrapp.  Se n&#230;rmere beskrivelse av av _typeVeg_ under.
+Veglenke er en felles objekttype for alle veglenker (senterlinjer) i et vegnett. Egenskapen typeveg beskriver hva slags veglenke det er. I FKB-TraktorvegSti er aktuelle verdier for typeveg traktorveg, sti og stitrapp.  Se n&#230;rmere beskrivelse av av _typeVeg_ under.
 
 Veglenker skal knyttes sammen i nodepunkter (knutepunkter). Senterlinjeobjekter i dette datasettet skal ikke ligge n&#230;rmere hverandre enn 2 m uten at de henger sammen, eventuelt med konnekteringslenke.
 
-Som beskrevet i kap.3.4 i FKB-Veg og kap.3.2 i Elveg gjelder konsekvensretting i FKB-Veg ogs&#229; for endringer av veglenker i TraktorvegSti:
+Som beskrevet i kap.3.4 i Registreringsinstruks: Fotogrammetrisk FKB-Veg og kap.3.2 i Registreringsinstruks: Fotogrammetrisk NVDB Vegnett gjelder konsekvensretting i FKB-Veg ogs&#229; for endringer av veglenker i TraktorvegSti:
 
-Enhver endring av geometri og egenskap typeveg i Elveg eller FKB-TraktorvegSti skal f&#248;lges opp med konsekvensretting av vegkanter og flater i FKB-Veg. Det er alltid senterlinjegeometri i Elveg og FKB-TraktorvegSti som skal v&#230;re f&#248;rende for innhold og koding av vegkanter og vegflater i FKB-Veg, ikke omvendt.
+Enhver endring av geometri og egenskap typeveg i NVDB Vegnett eller FKB-TraktorvegSti skal f&#248;lges opp med konsekvensretting av vegkanter og flater i FKB-Veg. Det er alltid senterlinjegeometri i NVDB Vegnett og FKB-TraktorvegSti som skal v&#230;re f&#248;rende for innhold og koding av vegkanter og vegflater i FKB-Veg, ikke omvendt.
  
  
 [discrete]
 ==== Føringer
 [cols="h,2"]
 |===
-|FKB grunnrissreferanse
-|Senterlinje
- 
-|FKB høydereferanse
-|Terreng
- 
 |FKB-A
 |Påkrevd registrering
  
@@ -43,6 +38,12 @@ Enhver endring av geometri og egenskap typeveg i Elveg eller FKB-TraktorvegSti s
  
 |FKB-D
 |Påkrevd registrering
+ 
+|FKB grunnrissreferanse
+|Senterlinje
+ 
+|FKB høydereferanse
+|Terreng
  
 |===
  
